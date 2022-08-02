@@ -1,24 +1,13 @@
-# Welcome to HashLips 👄
+# Welcome to The Drunk Divers (DD)
 
-![](https://github.com/HashLips/hashlips_nft_minting_dapp/blob/main/logo.png)
+![](https://github.com/flowers1991/thedrunkdrivers/blob/master/logo.png)
 
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
 
-To find out more please visit:
 
-[📺 YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
+# NFT minting dapp 🔥
 
-[👄 Discord](https://discord.com/invite/qh6MWhMJDN)
-
-[💬 Telegram](https://t.me/hashlipsnft)
-
-[🐦 Twitter](https://twitter.com/hashlipsnft)
-
-[ℹ️ Website](https://hashlips.online/HashLips)
-
-# HashLips NFT minting dapp 🔥
-
-![](https://github.com/HashLips/hashlips_nft_minting_dapp/blob/main/banner.png)
+![](https://github.com/flowers1991/thedrunkdrivers/blob/master/logo.png)
 
 This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
 
